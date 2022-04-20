@@ -1,4 +1,4 @@
-# FiveM-PVP
+# FiveM PVP
 > :warning: **Warning:** This mod is not finished yet and will likely have bugs.
 
 ### Description
