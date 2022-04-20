@@ -1,5 +1,7 @@
+local enabled = true
+
 Citizen.CreateThread(function()
-	while true do
+	while enabled do
         -- If you don't have this, the mod will crash
 		Citizen.Wait(0)
 
